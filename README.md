@@ -1,0 +1,1 @@
+Regression analysis predicting Interstate 94 traffic volume. Data Preparation, EDA, Feature engineering, model comparison across Linear, Ridge, Lasso, Symbolic, and Transformed regression with cross-validation and grid search tuning.
